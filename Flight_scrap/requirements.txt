@@ -30,7 +30,7 @@ incremental==16.10.1
 ipaddress==1.0.17
 iso8601==0.1.12
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 keyring==10.6.0
 keyrings.alt==3.0
 leveldb==0.1
