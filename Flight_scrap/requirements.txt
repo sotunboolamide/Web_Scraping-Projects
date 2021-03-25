@@ -65,7 +65,7 @@ python-dateutil==2.6.1
 python-libtorrent==1.1.5
 pytz==2018.3
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 repoze.lru==0.7
 Routes==2.4.1
 Rx==1.6.1
