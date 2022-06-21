@@ -44,7 +44,7 @@ mongoengine==0.17.0
 mongomock==3.14.0
 netifaces==0.10.4
 networkx==1.11
-numpy==1.13.3
+numpy==1.22.0
 olefile==0.45.1
 PAM==0.4.2
 Pillow==5.1.0
